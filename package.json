@@ -1,0 +1,21 @@
+{
+  "name": "react-query-slides",
+  "version": "1.0.0",
+  "description": "make component based slides using jquerry and react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jquerry",
+    "react",
+    "images",
+    "slides",
+    "components"
+  ],
+  "author": "Jared Anders Isaksen",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.8.3"
+  }
+}
